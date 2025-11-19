@@ -1,0 +1,222 @@
+{
+  "Metadata": {
+    "title": "transcrAIbe | Kolay ve Doğru Ses-Yazı Dönüşümleri",
+    "description": "Ses dosyaları için AI destekli transkripsiyon servisi. Abonelik gerekmez. Ucuz, doğru ve güvenli. Şimdi deneyin!"
+  },
+  "LandingPage": {
+    "title": "Ses'ten Metne Transkripsiyon Servisi",
+    "subtitle": "transcrAIbe hızlı ve güvenli bir transkripsiyon servisidir. Platformumuz sadece birkaç tıklama ile en doğru ve yüksek kaliteli transkripsiyonları sunar. Ödeme yaptıkça kullanım esasına göre çalışırız - abonelikler, gizli ücretler yok.",
+    "previousOrder": "Önceki siparişe dönmek için buraya tıklayın"
+  },
+  "CookieBanner": {
+    "content": "Bu web sitesi düzgün çalışması için fonksiyonel çerezler kullanmaktadır. Siteyi gezinmeye devam ederek çerez kullanımımızı kabul etmiş olursunuz.",
+    "buttonText": "Anladım"
+  },
+  "TranscribeApp": {
+    "buttons": {
+      "forward": "İleri",
+      "backward": "Geri"
+    },
+    "instructions": {
+      "step1": "Ses dosyalarınızı yükleyin",
+      "step2": "PayPal ile ödeme yapın",
+      "step3": "Transkripsiyonlarınızı indirin"
+    },
+    "drag&drop": {
+      "uploadContainer": "Transkribe etmek için dosyaları buraya sürükleyip bırakın.",
+      "uploadButton": "Yükle"
+    },
+    "fileCard": {
+      "price": "Fiyat:",
+      "fileSize": "Dosya Boyutu:",
+      "fileLength": "Süre:",
+      "transcriptionStatus": "Transkripsiyon Durumu:",
+      "downloadFile": "İndir"
+    },
+    "priceEstimate": "Toplam Fiyat",
+    "downloadInvoice": "Fatura İndir"
+  },
+  "LogoTopAppBar": {
+    "HowToUse": "Nasıl Kullanılır",
+    "Pricing": "Fiyatlandırma",
+    "Privacy": "Gizlilik"
+  },
+  "HowToUse": {
+    "title": "Nasıl Kullanılır",
+    "subtitle": "Sadece Birkaç Tıklama ile Kolay ve Hızlı Transkripsiyon",
+    "Step1": {
+      "content": "Ses dosyalarınızı yükleyerek başlayın. Dosyaları PC'nizden doğrudan sürükleyip bırakabilir veya 'YÜKLE' düğmesine tıklayarak dosyaları seçebilirsiniz."
+    },
+    "Step2": {
+      "content": "Yükleme işleminden sonra, güvenli ödemeye devam etmek için 'İLERİ'ye tıklayın. Servisimiz güvenilir ve güvenli bir PayPal geçidi kullanır. Ses'ten metne dönüşüm işleminiz için ödeme işlemini tamamlayın."
+    },
+    "Step3": {
+      "content": "Ödeme sonrasında, transkribe edilmiş dosyalarınızı çeşitli formatlarda indirmek üzere yönlendirilirsiniz. Tarayıcınızın URL çubuğundaki bağlantı diğer cihazlarda açılabilir ve belgelerinizi almak için 48 saat boyunca aktif kalır, bu da dokümanlarınızı almak için yeterli zaman sağlar."
+    }
+  },
+  "TranscriptionDetails": {
+    "uploadHeader": "Yükleme Formatları",
+    "uploadBody": "Servisimiz <bold>.m4a</bold>, <bold>.mp3</bold>, <bold>.webm</bold>, <bold>.mp4</bold>, <bold>.ogg</bold>, <bold>.mpga</bold>, <bold>.wav</bold> ve <bold>.flac</bold> dosyalarını destekler. Maksimum <bold>120 dakika</bold> uzunluğunda ve <bold>10 GB</bold> boyutunda ses kayıtları yükleyebilirsiniz. Daha uzun kayıtlarınız varsa, bunları parçalara ayırmanızı öneririz.",
+    "technologyHeader": "AI Teknolojisi",
+    "technologyBody": "Platformumuz, doğru transkripsiyon hizmetleri sağlamak için en son AI teknolojisini kullanır. Olağanüstü bir <bold>%98 transkripsiyon doğruluğu</bold> ile sistemimiz en iyiler arasındadır. Bu gelişmiş yetenek, transkripsiyonlarınızın hem güvenilir hem de kesin olmasını sağlar.",
+    "languageHeader": "Desteklenen Diller",
+    "languageBody": "Servisimiz, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Hollanda Dili, Rusça, Çince, Japonca ve daha pek çok dahil olmak üzere <bold>57 dil</bold> destekler. Dil otomatik olarak tespit edilir ve buna göre transkribe edilir.",
+    "downloadHeader": "İndirme Formatları",
+    "downloadBody": "Transkripsiyonlarınız <bold>.txt</bold>, <bold>.docx</bold> ve <bold>.pdf</bold> formatlarında mevcuttur. Onları doğrudan tarayıcıdan indirebilir veya diğer cihazlarda erişim için URL çubuğunda sağlanan bağlantıyı kullanabilirsiniz."
+  },
+  "Pricing": {
+    "title": "Fiyatlandırma",
+    "subtitle": "Şeffaf ve Uygun Fiyatlı - İhtiyaçlarınıza Özel",
+    "content": "Fiyatlandırma yapımız basit ve maliyet etkilidir: sadece saat başına 2,99€, saniyeye kadar hesaplanmış. Abonelik gerekmez ve yalnızca transkribe etmeniz gereken ses için ödeme yaparsınız. Hizmetimiz, röportajları ya da tek seferlik etkinlikleri transkribe etmeye ihtiyaç duyan müşteriler gibi tek seferlik kullanıcılar için idealdir. Piyasadaki en düşük fiyatları sunuyoruz, bu da hizmetimizi hem esnek hem de maliyet etkin kılıyor.",
+    "pricePerHour": "sesin her saati başına €",
+    "pricingTable": {
+      "row1": {
+        "ele1": "Tür",
+        "ele2": "Dosya Uzunluğu",
+        "ele3": "Maliyet"
+      },
+      "row2": {
+        "ele1": "Tekil Dosya",
+        "ele2": "30dk",
+        "ele3": "1,50€"
+      },
+      "row3": {
+        "ele1": "Çoklu Dosyalar",
+        "ele2": "15dk + 20dk + 45dk",
+        "ele3": "3,97€"
+      }
+    },
+    "note": "<cursive>Not:</cursive> Daha uzun kayıtlarınız varsa, bunları parçalara ayırmanızı öneririz. Bu, daha uzun içeriği hâlâ verimli bir şekilde transkribe edebilmenizi sağlar. Minimum işlem ücreti sipariş başına <bold>0,50€</bold>."
+  },
+  "Testimonials": {
+    "Testimonial1": {
+      "testimonial": "Bir belgesel film yapımcısı olarak, transcrAIbe'in doğruluğu öne çıkıyor. Düzeltme süresini en aza indiren ve çalışma verimliliğini maksimize eden bir hizmet bulmak harika. Araştırmam için bir oyun değiştirici.",
+      "author": "- Maggie, Belgesel Film Yapımcısı"
+    },
+    "Testimonial2": {
+      "testimonial": "Bütçesi kısıtlı bir doktora adayı olarak, abonelik gerektirmeyen transcrAIbe'in saatinde 2,99€'luk maliyet etkin fiyatlandırması kaliteden ödün vermeden finansal bir cankurtaran oldu.",
+      "author": "- Lena, Doktora Adayı"
+    },
+    "Testimonial3": {
+      "testimonial": "Teknolojiye pek aşina olmayan biri olarak, transcrAIbe'in basitliğini takdir ediyorum. Sürükleyip bırak, birkaç tıklama ve işlem tamam. Bu, doğrudan, hızlı ve sorunsuz, sürelerimi zahmetsizce karşılıyor.",
+      "author": "- Tom, Serbest Gazeteci"
+    }
+  },
+  "FAQ": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Transkripsiyon servisimiz hakkında yaygın sorulara cevaplar bulun",
+    "faq1": {
+      "question": "Transkripsiyon için hangi ses dosya formatlarını yükleyebilirim?",
+      "answer": "Servisimiz .m4a, .mp3, .webm, .mp4, .ogg, .mpga, .wav ve .flac dahil geniş bir ses dosya formatı yelpazesini destekler. <br></br><br></br>Maksimum 120 dakika uzunluğunda ve 10 GB maksimum dosya boyutunda ses kayıtları yükleyebilirsiniz. Daha uzun kayıtlarınız varsa, yüklemeden önce onları parçalara ayırmanızı öneririz. Ses dosyalarınızı bölmek için aşağıdaki aracı kullanabilirsiniz: <br></br> <audiosplitter>Ses Bölücü</audiosplitter>"
+    },
+    "faq2": {
+      "question": "transcrAIbe'i diğer platformlara göre avantajlı kılan nedir?",
+      "answer": "transcrAIbe, bir hesap oluşturma veya abone olma ihtiyacı olmadan sorunsuz bir transkripsiyon servisi sunarak öne çıkar. <br></br><br></br>Piyasadaki en düşük fiyatları sunarak, mülakatları transkribe etmeye veya tek seferlik etkinlikler için hizmetimizden yararlanmaya ihtiyaç duyan müşteriler için ideal hizmetimizi sunuyoruz. Esnek, ödeme yap-kullan modelimiz, rahatlık, maliyet etkinliği ve gizliliği önceliklendiren hem ara sıra hem de düzenli kullanıcıların ihtiyaçlarını karşılamak üzere tasarlanmıştır."
+    },
+    "faq3": {
+      "question": "Hangi dillerde sesi transkribe edebilirsiniz?",
+      "answer": "Servisimiz şu anda İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Hollanda Dili, Rusça, Çince ve Japonca dahil olmak üzere 57 dilde desteklemektedir. Ses dosyanızdaki dil otomatik olarak tespit edilir ve buna göre transkribe edilir. <br></br><br></br>Desteklediğimiz tüm dillerin tam listesi burada: <br></br><br></br>Afrikaanca, Arapça, Ermenice, Azerice, Belarusça, Boşnakça, Bulgarca, Katalanca, Çince, Hırvatça, Çekçe, Danca, Hollanda Dili, İngilizce, Estonyaca, Fince, Fransızca, Galiçyaca, Almanca, Yunanca, İbranice, Hintçe, Macarca, İzlandaca, Endonezyaca, İtalyanca, Japonca, Kannada, Kazakça, Korece, Letonca, Litvanyaca, Makedonca, Malay, Marathi, Maori, Nepali, Norveççe, Farsça, Lehçe, Portekizce, Romence, Rusça, Sırpça, Slovakça, Slovence, İspanyolca, Svahili, İsveççe, Tagalog, Tamil, Tay, Türkçe, Ukraynaca, Urduca, Vietnamca ve Galce."
+    },
+    "faq4": {
+      "question": "Transkripsiyon servisinin maliyeti ne kadar?",
+      "answer": "Basit ve maliyet etkili bir fiyatlandırma yapısına sahibiz: sesin her saati için sadece 2,99€, saniyesine kadar hesaplanır."
+    },
+    "faq5": {
+      "question": "Transkripsiyonumu hangi formatlarda indirebilirim?",
+      "answer": "Ses dosyanız transkribe edildikten sonra, transkripsiyonu .txt, .docx ve .pdf formatlarında doğrudan tarayıcıdan indirebilirsiniz. Diğer cihazlarda kolay erişim için URL çubuğunda sağlanan bir bağlantı da bulunmaktadır."
+    },
+    "faq6": {
+      "question": "transcrAIbe'i kullanmak için bir abonelik ücreti var mı?",
+      "answer": "Hayır, ödeme yap-kullan esasına göre çalışıyoruz. Abonelik ücretleri veya gizli masraflar yok. Transkribe ettirmek istediğiniz ses için ödeme yaparsınız, bu da hem esnek hem de maliyet etkili bir çözümdür."
+    },
+    "faq7": {
+      "question": "Transkripsiyon servisinizi kullanırken verilerim ne kadar güvende?",
+      "answer": "Verilerinizin güvenliği ve gizliliğini önceliklendiriyoruz. Ses dosyalarınız ve transkripsiyonlarınız katı gizlilikle işlenir ve üçüncü taraflarla paylaşılmaz. Transkripsiyon süreci boyunca bilgilerinizi korumak için gelişmiş güvenlik önlemleri kullanıyoruz."
+    },
+    "faq8": {
+      "question": "Yükleyebileceğim maksimum dosya boyutu ve uzunluğu nedir?",
+      "answer": "İzin verilen maksimum dosya boyutu 10 GB ve tek bir ses dosyası için maksimum uzunluk 120 dakikadır. Bunun üzerinde sesiniz varsa, transkripsiyon için yüklemeden önce daha küçük segmentlere bölmek için öneririz."
+    },
+    "faq9": {
+      "question": "Transkripsiyonların doğruluğu ne kadar?",
+      "answer": "En son AI teknolojisini kullanarak, optimal ses koşulları altında %98'e kadar transkripsiyon doğruluğu elde etmekle gurur duyuyoruz. Bu, transkripsiyonlarınızın hem güvenilir hem de kesin olmasını sağlar."
+    }
+  },
+  "Privacy": {
+    "title": "Verilerinizin Güvenliği ve Gizliliği - En Öncelikli Konumuz",
+    "subtitle": "Bilgilerinizi Koruma Taahhüdümüz",
+    "retPolicy": {
+      "headline": "Veri Saklama Politikası",
+      "content": "Gizliliğinize saygı duyarız. İşlenmesinden sonraki 2 gün boyunca verilerinizi sakladıktan sonra, otomatik ve kalıcı olarak sunucularımızdan silinir."
+    },
+    "encSecurity": {
+      "headline": "Şifreleme ve Güvenlik",
+      "content": "Ses dosyalarınız ve transkripsiyonlarınız dahil tüm veriler, en yüksek güvenlik ve gizlilik seviyesini sağlamak üzere şifrelenmiş formatlarda saklanır ve iletilir."
+    },
+    "noThirdPartySharing": {
+      "headline": "Üçüncü Taraf Paylaşımı Yok",
+      "content": "Ses dosyalarınızın ve karşılık gelen transkripsiyonlarının hiçbir zaman üçüncü taraflarla paylaşılmayacağını garanti ederiz. İçeriğiniz yalnızca sizin kalır."
+    }
+  },
+  "Footer": {
+    "imprint": "İzlenim",
+    "terms": "Şartlar & Koşullar",
+    "availableLanguages": "Mevcut Diller"
+  },
+  "Terms": {
+    "title": "transcrAIbe için Genel Şartlar ve Koşullar",
+    "validity": {
+      "headline": "Genel Şartlar ve Koşulların Geçerliliği",
+      "content": "Bu Genel Şartlar ve Koşullar, siparişin yapıldığı sırada geçerli olan versiyonu ile aramızdaki tüm teslimatlar için geçerlidir.\n\nTüketici, çoğunlukla ticari olmayan veya bağımsız profesyonel bir faaliyet için bir hukuki işlem yapan herhangi bir doğal kişidir (§ 13 BGB). <br></br> Bu, Genel Şartlar ve Koşulların orijinal Alman versiyonunun bir çevirisidir. Çelişkiler durumunda, Alman versiyonu geçerlidir."
+    },
+    "contractConditions": {
+      "headline": "Sözleşme Koşulları",
+      "content": "(1) https://www.transcraibe.de/ adresindeki çevrimiçi mağazamız aracılığıyla verilen siparişler için aşağıdaki sözleşme koşulları geçerlidir.<br></br>(2) Bir sözleşme yapılırsa, bu Lindner Internet Services ile, Daniel Lindner tarafından temsil edilen, Amalienstraße 87, D-80799 Münih ile yapılır.<br></br>(3) Çevrimiçi mağazamızdaki ürünlerin sunumu, yasal olarak bağlayıcı bir teklif değil, tüketiciye sipariş verme davetidir. Seçilen malları sipariş ederek, tüketici satın alma sözleşmesi yapma konusunda bağlayıcı bir teklif sunar.<br></br>(4) Çevrimiçi mağazamızda sipariş verirken, tüketici aşağıdaki şekilde bağlayıcı bir teklif sunar: Tüketici, çevrimiçi mağazamızda sağlanan sipariş sürecini başarıyla tamamlar. Bu, şunları içerir:<br></br>1) İşlenecek dosyaların yüklenmesi<br></br>2) “Ödemeye devam et”e tıklayarak onaylama<br></br>3) Alışveriş sepetindeki bilgilerin kontrol edilmesi<br></br>4) PayPal'dan bir ödeme seçeneğinin seçilmesi ve etkinleştirilmesi<br></br>5) Transkriptleri indirme seçeneği ile sipariş özeti sayfasına yönlendirme<br></br>Siparişi kesin olarak göndermeden önce, tüketici tarayıcısının “Geri” düğmesini kullanarak müşteri detaylarının kaydedildiği sayfaya dönebilir veya giriş hatalarını düzeltmek veya sipariş işlemini iptal etmek için tarayıcıyı kapatabilir.<br></br>GTC'miz https://www.transcraibe.de/de/terms adresinde her zaman görülebilir."
+    },
+    "priceAndPayment": {
+      "headline": "Fiyatlar, Ödeme, Ödeme Tarihi",
+      "content": "Belirtilen fiyatlar, § 19 UStG'ye göre KDV'den muaftır. Nakliye masrafları uygulanmaz. Ödeme PayPal aracılığıyla yapılır."
+    },
+    "warranty": {
+      "headline": "Garanti",
+      "content": "Yasal garanti hükümleri geçerlidir."
+    },
+    "uptimeSecurity": {
+      "headline": "Çalışma Süresi, Güvenlik ve Veri Saklama",
+      "content": "Uygulamalarımızın çalışma süresini ciddiye alıyoruz ancak hizmetlerimiz için Hizmet Seviyesi Anlaşmaları sunmuyoruz. Kullanımınız, diğer müşterilerin tipik kullanımını önemli ölçüde aşarsa, hesabınızı geçici olarak devre dışı bırakma hakkımız saklıdır. Tüm veriler, ses dosyalarınız ve transkriptleriniz dahil, şifrelenmiş formatlarda saklanır ve kamu interneti üzerinden veri iletimi için şifreleme kullanılır. İşlemenizden sonra verileriniz sınırlı bir süre saklandıktan sonra sunucularımızdan kalıcı olarak silinir."
+    },
+    "copyright": {
+      "headline": "Telif Hakkı ve İçerik Sahipliği",
+      "content": "Servise sağladığınız materyal üzerinde hiçbir fikri mülkiyet hakkı iddia etmiyoruz. Yüklenen tüm malzemeler sizin mülkiyetinizde kalır. Ancak, hizmetin herhangi bir kısmını, hizmetin kullanımı veya hizmete erişim olmadan açık yazılı iznimiz olmadan çoğaltmayacağınızı, kopyalamayacağınızı, satmayacağınızı, yeniden satmayacağınızı veya istismar etmeyeceğinizi kabul edersiniz."
+    },
+    "modifications": {
+      "headline": "Servis ve Şartlarda Değişiklikler",
+      "content": "Servisi (veya herhangi bir kısmını) geçici veya kalıcı olarak değiştirme veya sonlandırma hakkımızı saklı tutarız, haber vermek zorunda kalmadan. Ayrıca gelecekte bu Şartlar ve Koşulları güncelleyebilir ve önemli değişiklikler hakkında hesap sahiplerini bilgilendirebiliriz. Bu tür değişikliklerden sonra Servisi kullanmaya devam etmeniz, yeni Şartlar ve Koşulları kabul ettiğiniz anlamına gelir."
+    },
+    "governingLaw": {
+      "headline": "Yönetim Hukuku",
+      "content": "Bu Şartlar ve Koşullar, transcrAIbe'in faaliyet gösterdiği yargı bölgesinin yasalarına tabidir ve bu yasalara uygun olarak yorumlanır, çatışan hukuk hükümlerine bakılmaksızın."
+    },
+    "disclaimer": "Bu, Genel Şartlar ve Koşulların orijinal Alman versiyonunun bir çevirisidir. Çelişkiler durumunda, Alman versiyonu geçerlidir."
+  },
+  "Imprint": {
+    "title": "Yasal Uyarı",
+    "info": "transcr<bold>AI</bold>be, Linder Internet Service KMU'nun bir parçasıdır. Aşağıdaki bilgiler § 5 TMG'ye göredir.",
+    "representedBy": {
+      "headline": "<bold>Temsil Eden:</bold>",
+      "content": "Daniel Lindner <br></br> Amalienstraße 87 <br></br>80799 München"
+    },
+    "contact": {
+      "headline": "<bold>İletişim:</bold>",
+      "content": "E-posta: contact@transcraibe.de"
+    },
+    "taxID": {
+      "headline": "<bold>§27a Umsatzsteuergesetz'a göre KDV kimlik numarası:</bold>",
+      "content": "DE366484135"
+    },
+    "regulatoryAuthority": {
+      "headline": "<bold>Denetleyici otorite:</bold>",
+      "content": "Gemeinde Unterhaching <br></br>Rathausplatz 7 <br></br>82008 Unterhaching"
+    }
+  }
+}

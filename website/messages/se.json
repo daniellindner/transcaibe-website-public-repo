@@ -1,0 +1,222 @@
+{
+  "Metadata": {
+    "title": "transcrAIbe | Enkla och precisa ljudtranskriptioner",
+    "description": "AI-drivet transkriptionstjänst för ljudfiler. Inget abonnemang krävs. Billigt, precist och säkert. Prova nu!"
+  },
+  "LandingPage": {
+    "title": "Röst till text-transkriptionstjänst",
+    "subtitle": "transcrAIbe är en snabb och säker transkriptionstjänst. Vår plattform erbjuder dig de mest precisa och högkvalitativa transkriptionerna med bara några klick. Vi arbetar på en betala per användning-basis - inga abonnemang, inga dolda avgifter.",
+    "previousOrder": "Klicka här för att återgå till tidigare beställning"
+  },
+  "CookieBanner": {
+    "content": "Denna webbplats använder funktionella cookies för att fungera korrekt. Genom att fortsätta bläddra på sidan godkänner du vår användning av cookies.",
+    "buttonText": "Jag förstår"
+  },
+  "TranscribeApp": {
+    "buttons": {
+      "forward": "Nästa",
+      "backward": "Tillbaka"
+    },
+    "instructions": {
+      "step1": "Ladda upp dina ljudfiler",
+      "step2": "Betala med PayPal",
+      "step3": "Ladda ner dina transkriptioner"
+    },
+    "drag&drop": {
+      "uploadContainer": "Dra och släpp filer här för att transkribera dem.",
+      "uploadButton": "Ladda upp"
+    },
+    "fileCard": {
+      "price": "Pris:",
+      "fileSize": "Filstorlek:",
+      "fileLength": "Längd:",
+      "transcriptionStatus": "Transkriptionens status:",
+      "downloadFile": "Ladda ner"
+    },
+    "priceEstimate": "Totalt pris",
+    "downloadInvoice": "Ladda ner faktura"
+  },
+  "LogoTopAppBar": {
+    "HowToUse": "Hur man använder",
+    "Pricing": "Prissättning",
+    "Privacy": "Integritet"
+  },
+  "HowToUse": {
+    "title": "Hur man använder",
+    "subtitle": "Enkel och snabb transkription med bara några klick",
+    "Step1": {
+      "content": "Börja med att ladda upp dina ljudfiler. Du kan dra och släppa filer direkt från din dator eller klicka på 'LADDA UPP'-knappen för att välja filer."
+    },
+    "Step2": {
+      "content": "Efter uppladdning, klicka på 'NÄSTA' för att fortsätta till säker betalning. Vår tjänst använder en pålitlig och säker PayPal-grind. Slutför betalningsprocessen för din ljud-till-text-konvertering."
+    },
+    "Step3": {
+      "content": "Efter betalning kommer du att omdirigeras för att ladda ner dina transkriberade filer i olika format. Länken i din webbläsares URL-fält kan öppnas på andra enheter och förblir aktiv i 48 timmar, vilket ger gott om tid att hämta dina dokument."
+    }
+  },
+  "TranscriptionDetails": {
+    "uploadHeader": "Uppladdningsformat",
+    "uploadBody": "Vår tjänst stöder <bold>.m4a</bold>, <bold>.mp3</bold>, <bold>.webm</bold>, <bold>.mp4</bold>, <bold>.ogg</bold>, <bold>.mpga</bold>, <bold>.wav</bold> och <bold>.flac</bold>-filer. Du kan ladda upp ljudinspelningar på upp till <bold>120 min</bold> och en maximal filstorlek på <bold>10 GB</bold>. Om du har längre inspelningar rekommenderar vi att du delar dem i delar.",
+    "technologyHeader": "AI-teknologi",
+    "technologyBody": "Vår plattform använder toppmodern AI-teknologi, vilket säkerställer precisa transkriptionstjänster. Med en anmärkningsvärd <bold>98% transkriptionsnoggrannhet</bold> är vårt system ett av de bästa. Denna avancerade förmåga säkerställer att dina transkriptioner är både tillförlitliga och precisa.",
+    "languageHeader": "Stödda språk",
+    "languageBody": "Vår tjänst stöder <bold>57 språk</bold>, inklusive engelska, tyska, franska, spanska, italienska, nederländska, ryska, kinesiska, japanska och många fler. Språket upptäcks automatiskt och transkriberas därefter.",
+    "downloadHeader": "Nerladdningsformat",
+    "downloadBody": "Dina transkriptioner är tillgängliga i <bold>.txt</bold>, <bold>.docx</bold> och <bold>.pdf</bold>-format. Du kan ladda ner dem direkt från webbläsaren eller använda länken som tillhandahålls i URL-fältet för att komma åt dem på andra enheter."
+  },
+  "Pricing": {
+    "title": "Prissättning",
+    "subtitle": "Transparent och prisvärt - Anpassat efter dina behov",
+    "content": "Vår prissättning är enkel och kostnadseffektiv: endast 2,99 € per ljudtimme, beräknat till sekunden. Ingen prenumeration krävs, och du betalar bara för det ljud du behöver transkribera. Vår tjänst är idealisk för engångsanvändare, såsom de som behöver transkribera intervjuer eller enskilda händelser. Vi erbjuder de lägsta priserna på marknaden, vilket gör vår tjänst både flexibel och kostnadseffektiv.",
+    "pricePerHour": "€ per timme av ljud",
+    "pricingTable": {
+      "row1": {
+        "ele1": "Typ",
+        "ele2": "Filens längd",
+        "ele3": "Kostnad"
+      },
+      "row2": {
+        "ele1": "Enstaka fil",
+        "ele2": "30min",
+        "ele3": "1,50€"
+      },
+      "row3": {
+        "ele1": "Flera filer",
+        "ele2": "15min + 20min + 45min",
+        "ele3": "3,97€"
+      }
+    },
+    "note": "<cursive>Obs:</cursive> Om du har längre inspelningar rekommenderar vi att dela dem i delar. Detta säkerställer att du fortfarande kan transkribera längre innehåll effektivt. Minsta transaktionsavgift är <bold>0,50€</bold> per beställning."
+  },
+  "Testimonials": {
+    "Testimonial1": {
+      "testimonial": "Som dokumentärfilmare sticker transcrAIbes noggrannhet ut. Det är fantastiskt att hitta en tjänst som minimerar korrektionstid och maximerar arbets effektivitet. Deras uppmärksamhet på detaljer är en spelväxlare för min forskning.",
+      "author": "- Maggie, Dokumentärfilmare"
+    },
+    "Testimonial2": {
+      "testimonial": "Som doktorand med begränsad budget har transcrAIbes prisvärda prissättning på 2,99€ per timme av ljud, utan behov av abonnemang, varit en ekonomisk livräddare utan att offra kvalitet.",
+      "author": "- Lena, Doktorand"
+    },
+    "Testimonial3": {
+      "testimonial": "Inte tekniskt kunnig, jag uppskattar transcrAIbes enkelhet. Dra, släpp, några klick, och jag är klar. Det är enkelt, snabbt och problemfritt, uppfyller mina deadlines utan ansträngning.",
+      "author": "- Tom, Frilansjournalist"
+    }
+  },
+  "FAQ": {
+    "title": "Vanliga frågor",
+    "subtitle": "Hitta svar på vanliga frågor om vår transkriptionstjänst",
+    "faq1": {
+      "question": "Vilka ljudfilsformat kan jag ladda upp för transkription?",
+      "answer": "Vår tjänst stöder ett brett utbud av ljudfilsformat inklusive .m4a, .mp3, .webm, .mp4, .ogg, .mpga, .wav, och .flac. <br></br><br></br>Du kan ladda upp ljudinspelningar på upp till 120 min och en maximal filstorlek på 10 GB. Om du har längre inspelningar rekommenderar vi att du delar dem i delar innan du laddar upp. Du kan använda följande verktyg för att dela dina ljudfiler: <br></br> <audiosplitter>Ljudsplitter</audiosplitter>"
+    },
+    "faq2": {
+      "question": "Vad gör transcrAIbe fördelaktigt jämfört med andra plattformar?",
+      "answer": "transcrAIbe utmärker sig genom att erbjuda en sömlös transkriptionstjänst utan behov av att skapa ett konto eller prenumerera. <br></br><br></br>Vi erbjuder de lägsta priserna på marknaden, vilket gör vår tjänst idealisk för engångsanvändare, såsom de som behöver transkribera intervjuer eller enskilda händelser. Vår flexibla, betala per användning-modell är anpassad för att möta behoven hos både tillfälliga och regelbundna användare som prioriterar bekvämlighet, kostnadseffektivitet och integritet."
+    },
+    "faq3": {
+      "question": "På vilka språk kan ni transkribera ljud?",
+      "answer": "Vår tjänst stöder för närvarande 57 språk, inklusive men inte begränsat till engelska, tyska, franska, spanska, italienska, nederländska, ryska, kinesiska och japanska. Språket i din ljudfil upptäcks automatiskt och transkriberas därefter. <br></br><br></br>Här är en komplett lista över alla våra stödda språk: <br></br><br></br>Afrikaans, arabiska, armeniska, azerbajdzjanska, vitryska, bosniska, bulgariska, katalanska, kinesiska, kroatiska, tjeckiska, danska, nederländska, engelska, estniska, finska, franska, galiciska, tyska, grekiska, hebreiska, hindi, ungerska, isländska, indonesiska, italienska, japanska, kannada, kazakiska, koreanska, lettiska, litauiska, makedonska, malajiska, marathi, maori, nepali, norska, persiska, polska, portugisiska, rumänska, ryska, serbiska, slovakiska, slovenska, spanska, swahili, svenska, tagalog, tamil, thailändska, turkiska, ukrainska, urdu, vietnamesiska och walesiska."
+    },
+    "faq4": {
+      "question": "Hur mycket kostar transkriptionstjänsten?",
+      "answer": "Vi erbjuder en enkel och kostnadseffektiv prisstruktur: endast 2,99€ per timme av ljud, beräknat till sekunden."
+    },
+    "faq5": {
+      "question": "I vilka format kan jag ladda ner min transkription?",
+      "answer": "Efter att din ljudfil har transkriberats kan du ladda ner transkriptionen i .txt, .docx, och .pdf-format direkt från webbläsaren. En länk tillhandahålls också i URL-fältet för enkel åtkomst på andra enheter."
+    },
+    "faq6": {
+      "question": "Finns det en abonnemangsavgift för att använda transcrAIbe?",
+      "answer": "Nej, vi arbetar på en betala per användning-basis. Det finns inga abonnemangsavgifter eller dolda kostnader. Du betalar endast för det ljud du behöver transkriberas, vilket gör det både flexibelt och kostnadseffektivt."
+    },
+    "faq7": {
+      "question": "Hur säker är min data när jag använder er transkriptionstjänst?",
+      "answer": "Vi prioriterar säkerheten och integriteten för din data. Dina ljudfiler och transkriptioner behandlas med strikt konfidentialitet och delas inte med tredje part. Vi använder avancerade säkerhetsåtgärder för att skydda din information genom hela transkriptionsprocessen."
+    },
+    "faq8": {
+      "question": "Vad är den maximala filstorleken och längden jag kan ladda upp?",
+      "answer": "Den maximala tillåtna filstorleken är 10 GB, och den maximala längden för en enskild ljudfil är 120 minuter. Om du har ljud som är längre än så rekommenderar vi att du delar det i mindre segment innan du laddar upp det för transkription."
+    },
+    "faq9": {
+      "question": "Hur precisa är transkriptionerna?",
+      "answer": "Genom att använda toppmodern AI-teknologi är vi stolta över att uppnå upp till 98% transkriptionsnoggrannhet under optimala ljudförhållanden. Detta säkerställer att dina transkriptioner är både tillförlitliga och precisa."
+    }
+  },
+  "Privacy": {
+    "title": "Din datas säkerhet och integritet - Vår högsta prioritet",
+    "subtitle": "Engagemang för att skydda din information",
+    "retPolicy": {
+      "headline": "Datasekretesspolicy",
+      "content": "Vi respekterar din integritet. Det är därför vi bara behåller din data i 2 dagar efter bearbetning, varefter den automatiskt och permanent raderas från våra servrar."
+    },
+    "encSecurity": {
+      "headline": "Kryptering och säkerhet",
+      "content": "All data, inklusive dina ljudfiler och transkriptioner, lagras och överförs i krypterade format. Detta säkerställer högsta möjliga säkerhets- och konfidentialitetsnivå."
+    },
+    "noThirdPartySharing": {
+      "headline": "Ingen delning med tredje part",
+      "content": "Vi garanterar att dina ljudfiler och motsvarande transkriptioner aldrig delas med tredje part. Ditt innehåll förblir uteslutande ditt."
+    }
+  },
+  "Footer": {
+    "imprint": "Imprint",
+    "terms": "Allmänna villkor",
+    "availableLanguages": "Tillgängliga språk"
+  },
+  "Terms": {
+    "title": "Allmänna villkor för transcrAIbe",
+    "validity": {
+      "headline": "Giltigheten av de allmänna villkoren",
+      "content": "Följande allmänna villkor gäller för alla leveranser mellan oss och en konsument i den version som är giltig vid tidpunkten för beställningen.\n\nEn konsument är varje fysisk person som ingår ett rättsligt avtal för ändamål som övervägande varken är kommersiella eller sin egen yrkesmässiga självständiga verksamhet (§ 13 BGB). <br></br> Detta är en översättning av den ursprungliga tyska versionen av de allmänna villkoren. Vid eventuella skillnader gäller den tyska versionen."
+    },
+    "contractConditions": {
+      "headline": "Slutsatsen av ett avtal",
+      "content": "(1) Följande villkor för slutsatsen av ett avtal tillämpas på beställningar som görs genom vår onlinebutik på https://www.transcraibe.de/.<br></br>(2) Om ett avtal sluts, sluts det med Lindner Internet Services, representerat av Daniel Lindner, Amalienstraße 87, D-80799 München.<br></br>(3) Presentationen av produkter i vår onlinebutik är inte ett juridiskt bindande erbjudande, utan en icke-bindande inbjudan till konsumenten att göra en beställning. Genom att beställa de valda varorna lämnar konsumenten ett bindande erbjudande om att ingå ett köpeavtal.<br></br>(4) När en beställning görs i vår onlinebutik lämnar konsumenten ett bindande erbjudande på följande sätt: Konsumenten slutför framgångsrikt beställningsprocessen som tillhandahålls i vår onlinebutik. Detta inkluderar:<br></br>1) Uppladdning av de filer som ska bearbetas<br></br>2) Bekräftelse genom att klicka på “Fortsätt till betalning”<br></br>3) Kontrollera informationen i kundvagnen<br></br>4) Val och aktivering av ett betalningsalternativ från PayPal<br></br>5) Omdirigering till översikten över beställningen med ett alternativ för att ladda ner transkriptioner<br></br>Innan beställningen definitivt skickas kan konsumenten återgå till sidan där kundens uppgifter registreras genom att använda webbläsarens “Tillbaka”-knapp för att korrigera inmatningsfel eller genom att stänga webbläsaren för att avbryta beställningsprocessen.<br></br>Våra allmänna villkor kan också visas när som helst på https://www.transcraibe.de/de/terms."
+    },
+    "priceAndPayment": {
+      "headline": "Priser, Betalning, Förfallodatum",
+      "content": "De angivna priserna är undantagna från moms enligt § 19 UStG. Inga fraktkostnader tillkommer. Betalning görs via PayPal."
+    },
+    "warranty": {
+      "headline": "Garanti",
+      "content": "De lagstadgade garantibestämmelserna gäller."
+    },
+    "uptimeSecurity": {
+      "headline": "Drifttid, Säkerhet och Datasekretess",
+      "content": "Vi tar vår applikations drifttid på allvar men erbjuder inte serviceavtal för våra tjänster. Vi förbehåller oss rätten att tillfälligt inaktivera ditt konto om din användning avsevärt överstiger den typiska användningen av andra kunder. Alla data, inklusive dina ljudfiler och transkriptioner, lagras och överförs i krypterade format, och vi använder kryptering för dataöverföring över det offentliga internet. Dina data behålls endast en begränsad tid efter bearbetning innan de permanent raderas från våra servrar."
+    },
+    "copyright": {
+      "headline": "Upphovsrätt och Innehållsägande",
+      "content": "Vi gör inga anspråk på immateriella rättigheter över det material du tillhandahåller till tjänsten. Alla uppladdade material förblir din egendom. Du godkänner dock att inte reproducera, duplicera, kopiera, sälja, återförsälja eller utnyttja någon del av Tjänsten, användningen av Tjänsten eller tillgången till Tjänsten utan vårt uttryckliga skriftliga tillstånd."
+    },
+    "modifications": {
+      "headline": "Ändringar av Tjänsten och Villkoren",
+      "content": "Vi förbehåller oss rätten att ändra eller tillfälligt eller permanent upphöra med Tjänsten (eller någon del av den) med eller utan meddelande. Vi kan också uppdatera dessa Villkor i framtiden och kommer att meddela kontoinnehavare om väsentliga förändringar. Din fortsatta användning av Tjänsten efter sådana ändringar utgör ditt godkännande av de nya Villkoren."
+    },
+    "governingLaw": {
+      "headline": "Tillämplig lag",
+      "content": "Dessa Villkor är underkastade lagarna i den jurisdiktion där transcrAIbe verkar och ska tolkas i enlighet med dessa lagar, oavsett bestämmelserna om lagkonflikter."
+    },
+    "disclaimer": "Detta är en översättning av den ursprungliga tyska versionen av de allmänna villkoren. Vid eventuella skillnader gäller den tyska versionen."
+  },
+  "Imprint": {
+    "title": "Impressum",
+    "info": "transcr<bold>AI</bold>be är en del av Lindner Internet Service KMU. Följande information är i enlighet med § 5 TMG.",
+    "representedBy": {
+      "headline": "<bold>Representerad av:</bold>",
+      "content": "Daniel Lindner <br></br> Amalienstraße 87 <br></br>80799 München"
+    },
+    "contact": {
+      "headline": "<bold>Kontakt:</bold>",
+      "content": "E-post: contact@transcraibe.de"
+    },
+    "taxID": {
+      "headline": "<bold>Momsregistreringsnummer enligt §27a Umsatzsteuergesetz:</bold>",
+      "content": "DE366484135"
+    },
+    "regulatoryAuthority": {
+      "headline": "<bold>Reglerande myndighet:</bold>",
+      "content": "Gemeinde Unterhaching <br></br>Rathausplatz 7 <br></br>82008 Unterhaching"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "Metadata": {
+    "title": "transcrAIbe | Schnelle und akkurate Sprach-Transkriptionen",
+    "description": "KI-basierter Transkriptionsservice für Audio Dateien. Ohne Abbonement. Günstig, akkurat und sicher. Jetzt testen!"
+  },
+  "LandingPage": {
+    "title": "Sprach zu Text Transkriptions Service",
+    "subtitle": "transcrAIbe ist ein schneller und sicherer Transkriptionsservice. Unsere Plattform bietet Ihnen die genauesten und hochwertigsten Transkriptionen mit nur wenigen Klicks. Wir arbeiten nach dem Prinzip 'Pay as you Go' - keine Abonnements, keine versteckten Gebühren.",
+    "previousOrder": "Hier klicken um letzte Bestellung zu sehen"
+  },
+  "CookieBanner": {
+    "content": "Diese Website verwendet funktionale Cookies, um ordnungsgemäß zu funktionieren. Indem Sie weiter auf der Seite browsen, stimmen Sie unserer Verwendung von Cookies zu.",
+    "buttonText": "Ich verstehe"
+  },
+  "TranscribeApp": {
+    "buttons": {
+      "forward": "Weiter",
+      "backward": "Zurück"
+    },
+    "instructions": {
+      "step1": "Laden Sie Ihre Audiodateien hoch",
+      "step2": "Bezahlen Sie mit PayPal",
+      "step3": "Laden Sie Ihre Transkriptionen herunter"
+    },
+    "drag&drop": {
+      "uploadContainer": "Ziehen Sie Dateien hierher, um sie zu transkribieren.",
+      "uploadButton": "Hochladen"
+    },
+    "fileCard": {
+      "price": "Preis:",
+      "fileSize": "Dateigröße:",
+      "fileLength": "Dauer:",
+      "transcriptionStatus": "Transkriptions Status:",
+      "downloadFile": "Herunterladen"
+    },
+    "priceEstimate": "Gesamtpreis",
+    "downloadInvoice": "Rechnung herunterladen"
+  },
+  "LogoTopAppBar": {
+    "HowToUse": "Anleitung",
+    "Pricing": "Preise",
+    "Privacy": "Datenschutz"
+  },
+  "HowToUse": {
+    "title": "Anleitung zur Benutzung",
+    "subtitle": "Einfache und schnelle Transkription in nur wenigen Klicks",
+    "Step1": {
+      "content": "Beginnen Sie mit dem Hochladen Ihrer Audiodateien. Sie können Dateien direkt von Ihrem PC per Drag-and-Drop ziehen oder auf die Schaltfläche 'HOCHLADEN' klicken, um Dateien auszuwählen."
+    },
+    "Step2": {
+      "content": "Nach dem Hochladen klicken Sie auf 'WEITER', um zum sicheren Zahlungsvorgang zu gelangen. Unser Service verwendet ein zuverlässiges und sicheres PayPal-Gateway. Schließen Sie den Zahlungsvorgang für Ihre Audio-zu-Text-Konvertierung ab."
+    },
+    "Step3": {
+      "content": "Nach der Zahlung werden Sie weitergeleitet, um Ihre transkribierten Dateien in verschiedenen Formaten herunterzuladen. Der Link in der URL-Zeile Ihres Browsers kann auf anderen Geräten geöffnet werden und bleibt 48 Stunden aktiv, was Ihnen ausreichend Zeit gibt, Ihre Dokumente abzurufen."
+    }
+  },
+  "TranscriptionDetails": {
+    "uploadHeader": "Hochladformate",
+    "uploadBody": "Unser Service unterstützt <bold>.m4a</bold>, <bold>.mp3</bold>, <bold>.webm</bold>, <bold>.mp4</bold>, <bold>.ogg</bold>, <bold>.mpga</bold>, <bold>.wav</bold> und <bold>.flac</bold>-Dateien von bis zu <bold>120 min</bold> Länge und einer maximalen Größe von <bold>10 GB</bold> pro Audio-Datei. Für längere Aufnahmen empfehlen wir, diese in Teile zu teilen.",
+    "technologyHeader": "KI-Technologie",
+    "technologyBody": "Unsere Plattform nutzt modernste KI-Technologie für präzise Transkriptionsdienste. Mit einer beeindruckenden <bold>Genauigkeit von 95%</bold> gehört unser System zu den besten. Diese fortschrittliche Fähigkeit garantiert zuverlässige und genaue Transkriptionen.",
+    "languageHeader": "Unterstützte Sprachen",
+    "languageBody": "Unser Dienst unterstützt <bold>57 Sprachen</bold>, einschließlich Englisch, Deutsch, Französisch, Spanisch, Italienisch, Niederländisch, Russisch, Chinesisch, Japanisch und viele mehr. Die Sprache wird automatisch erkannt und entsprechend transkribiert.",
+    "downloadHeader": "Downloadformate",
+    "downloadBody": "Ihre Transkriptionen stehen in den Formaten <bold>.txt</bold>, <bold>.docx</bold> und <bold>.pdf</bold> zur Verfügung. Sie können diese direkt aus dem Browser herunterladen oder den in der URL-Zeile bereitgestellten Link nutzen, um auf anderen Geräten darauf zuzugreifen."
+  },
+  "Pricing": {
+    "title": "Preisgestaltung",
+    "subtitle": "Transparent und erschwinglich - Auf Ihre Bedürfnisse zugeschnitten",
+    "content": "Unsere Preisstruktur ist unkompliziert und kosteneffizient: nur 2,99 € pro Stunde Audio, sekundengenau berechnet. Kein Abonnement erforderlich, und Sie zahlen nur für das Audio, das Sie transkribiert benötigen. Unser Service ist ideal für Einmalnutzer, wie z.B. Personen, die Interviews oder einzelne Veranstaltungen transkribieren müssen. Wir bieten die niedrigsten Preise auf dem Markt, was unseren Service sowohl flexibel als auch kostengünstig macht.",
+    "pricePerHour": "€ pro Stunde Audio",
+    "pricingTable": {
+      "row1": {
+        "ele1": "Typ",
+        "ele2": "Dateilänge",
+        "ele3": "Kosten"
+      },
+      "row2": {
+        "ele1": "Einzelne Datei",
+        "ele2": "30min",
+        "ele3": "1,50€"
+      },
+      "row3": {
+        "ele1": "Mehrere Dateien",
+        "ele2": "15min + 20min + 45min",
+        "ele3": "3,97€"
+      }
+    },
+    "note": "<cursive>Hinweis:</cursive> Wenn Sie längere Aufnahmen haben, empfehlen wir, diese in Teile zu teilen. Dies stellt sicher, dass Sie längere Inhalte effizient transkribieren können. Die Mindesttransaktionsgebühr beträgt <bold>0,50€</bold> pro Bestellung."
+  },
+  "Testimonials": {
+    "Testimonial1": {
+      "testimonial": "Als Dokumentarfilmerin sticht die Genauigkeit von transcrAIbe hervor. Es ist toll, einen Service zu finden, der die Korrekturzeit minimiert und die Arbeitseffizienz maximiert. Ihre Detailgenauigkeit verändert mein Forschungsverfahren.",
+      "author": "- Maggie, Dokumentarfilmerin"
+    },
+    "Testimonial2": {
+      "testimonial": "Als Doktorandin mit begrenztem Budget ist das preisgünstige Angebot von transcrAIbe mit 2,99€ pro Stunde Audio, ohne die Notwendigkeit eines Abonnements, ein finanzieller Lebensretter, ohne dass die Qualität darunter leidet.",
+      "author": "- Lena, Doktorandin"
+    },
+    "Testimonial3": {
+      "testimonial": "Als nicht sehr technikaffine Person schätze ich die Einfachheit von transcrAIbe. Dateien ziehen, ablegen, ein paar Klicks und fertig. Es ist unkompliziert, schnell und problemlos, was mir hilft, meine engen Fristen mühelos zu erfüllen.",
+      "author": "- Tom, Freiberuflicher Journalist"
+    }
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Finden Sie Antworten auf häufig gestellte Fragen zu unserem Transkriptionsservice",
+    "faq1": {
+      "question": "Welche Audio-Dateiformate kann ich zur Transkription hochladen?",
+      "answer": "Unser Dienst unterstützt eine breite Palette von Audio-Dateiformaten einschließlich .m4a, .mp3, .webm, .mp4, .ogg, .mpga, .wav und .flac. <br></br><br></br>Sie können Audioaufnahmen von bis zu 120 Minuten und einer maximalen Dateigröße von 10 GB hochladen. Wenn Sie längere Aufnahmen haben, empfehlen wir, diese vor dem Hochladen in Teile zu teilen. Sie können das folgende Tool verwenden, um Ihre Audiodateien zu teilen: <br></br> <audiosplitter>Audio Splitter</audiosplitter>"
+    },
+    "faq2": {
+      "question": "Was macht transcrAIbe im Vergleich zu anderen Plattformen vorteilhaft?",
+      "answer": "transcrAIbe zeichnet sich durch einen nahtlosen Transkriptionsservice aus, ohne dass ein Konto erstellt oder ein Abonnement benötigt wird. <br></br><br></br>Wir bieten die niedrigsten Preise auf dem Markt, was unseren Service ideal für Einmalbenutzer macht, wie z.B. Personen, die Interviews oder einzelne Veranstaltungen transkribieren müssen. Unser flexibles, nutzungsabhängiges Modell ist darauf zugeschnitten, die Bedürfnisse sowohl von gelegentlichen als auch von regelmäßigen Nutzern zu erfüllen, die Bequemlichkeit, Kostenwirksamkeit und Datenschutz priorisieren."
+    },
+    "faq3": {
+      "question": "Welchen Sprachen kann ich transkribieren lassen?",
+      "answer": "Unser Service unterstützt derzeit 57 Sprachen, einschließlich, aber nicht beschränkt auf Englisch, Deutsch, Französisch, Spanisch, Italienisch, Niederländisch, Russisch, Chinesisch und Japanisch. Die Sprache in Ihrer Audiodatei wird automatisch erkannt und entsprechend transkribiert. <br></br><br></br>Hier ist eine vollständige Liste aller unserer unterstützten Sprachen: <br></br><br></br>Afrikaans, Arabisch, Armenisch, Aserbaidschanisch, Weißrussisch, Bosnisch, Bulgarisch, Katalanisch, Chinesisch, Kroatisch, Tschechisch, Dänisch, Niederländisch, Englisch, Estnisch, Finnisch, Französisch, Galizisch, Deutsch, Griechisch, Hebräisch, Hindi, Ungarisch, Isländisch, Indonesisch, Italienisch, Japanisch, Kannada, Kasachisch, Koreanisch, Lettisch, Litauisch, Mazedonisch, Malay, Marathi, Maori, Nepali, Norwegisch, Persisch, Polnisch, Portugiesisch, Rumänisch, Russisch, Serbisch, Slowakisch, Slowenisch, Spanisch, Suaheli, Schwedisch, Tagalog, Tamil, Thai, Türkisch, Ukrainisch, Urdu, Vietnamesisch und Walisisch."
+    },
+    "faq4": {
+      "question": "Wie viel kostet der Transkriptionsservice?",
+      "answer": "Wir bieten eine einfache und kostengünstige Preisstruktur: nur 2,99€ pro Stunde Audio, auf die Sekunde genau berechnet."
+    },
+    "faq5": {
+      "question": "In welchen Formaten kann ich meine Transkription herunterladen?",
+      "answer": "Nachdem Ihre Audiodatei transkribiert wurde, können Sie die Transkription direkt im Browser in den Formaten .txt, .docx und .pdf herunterladen. Ein Link wird auch in der URL-Leiste für den einfachen Zugriff auf anderen Geräten bereitgestellt."
+    },
+    "faq6": {
+      "question": "Muss ich ein Abonnement abschließen um transcrAIbe zu nutzen?",
+      "answer": "Nein, wir arbeiten auf einer Pay-as-you-go-Basis. Es gibt keine Abonnementgebühren oder versteckte Kosten. Sie zahlen nur für das Audio, das Sie transkribiert haben möchten, was es sowohl flexibel als auch kostengünstig macht."
+    },
+    "faq7": {
+      "question": "Wie sicher sind meine Daten bei der Nutzung Ihres Transkriptionsservice?",
+      "answer": "Wir priorisieren die Sicherheit und Privatsphäre Ihrer Daten. Ihre Audiodateien und Transkriptionen werden mit strenger Vertraulichkeit verarbeitet und nicht mit Dritten geteilt. Wir verwenden fortschrittliche Sicherheitsmaßnahmen, um Ihre Informationen während des Transkriptionsprozesses zu schützen."
+    },
+    "faq8": {
+      "question": "Was ist die maximale Dateigröße und Länge, die ich hochladen kann?",
+      "answer": "Die maximal zulässige Dateigröße beträgt 10 GB und die maximale Länge für eine einzelne Audiodatei beträgt 120 Minuten. Wenn Sie längere Audio haben, empfehlen wir, es in kleinere Segmente zu teilen, bevor Sie es zur Transkription hochladen."
+    },
+    "faq9": {
+      "question": "Wie genau sind die Transkriptionen?",
+      "answer": "Mit Hilfe modernster KI-Technologie sind wir stolz darauf, eine Transkriptionsgenauigkeit von bis zu 98% unter optimalen Audio-Bedingungen zu erreichen. Dies stellt sicher, dass Ihre Transkriptionen sowohl zuverlässig als auch präzise sind."
+    }
+  },
+  "Footer": {
+    "imprint": "Impressum",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "availableLanguages": "Verfügbare Sprachen"
+  },
+  "Privacy": {
+    "title": "Die Sicherheit und Privatsphäre Ihrer Daten - Unsere höchste Priorität",
+    "subtitle": "Verpflichtung zum Schutz Ihrer Informationen",
+    "retPolicy": {
+      "headline": "Datenaufbewahrungsrichtlinie",
+      "content": "Wir respektieren Ihre Privatsphäre. Deshalb bewahren wir Ihre Daten nur 2 Tage nach der Verarbeitung auf, wonach sie automatisch und dauerhaft von unseren Servern gelöscht werden."
+    },
+    "encSecurity": {
+      "headline": "Verschlüsselung und Sicherheit",
+      "content": "Alle Daten, einschließlich Ihrer Audiodateien und Transkriptionen, werden in verschlüsselten Formaten gespeichert und übertragen. Dies gewährleistet das höchste Maß an Sicherheit und Vertraulichkeit."
+    },
+    "noThirdPartySharing": {
+      "headline": "Keine Weitergabe an Dritte",
+      "content": "Wir garantieren, dass Ihre Audiodateien und die entsprechenden Transkriptionen niemals mit Dritten geteilt werden. Ihr Inhalt bleibt ausschließlich Ihr Eigentum."
+    }
+  },
+  "Terms": {
+    "title": "Allgemeine Geschäftsbedingungen für transcrAIbe",
+    "validity": {
+      "headline": "Geltung gegenüber Unternehmern und Begriffsdefinitionen",
+      "content": "Die nachfolgenden Allgemeinen Geschäftbedingungen gelten für alle Lieferungen zwischen uns und einem Verbraucher in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.\n\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (§ 13 BGB)."
+    },
+    "contractConditions": {
+      "headline": "Zustandekommen eines Vertrages",
+      "content": "(1) Die nachstehenden Bedingungen für den Vertragsabschluss gelten für Bestellungen, die über unseren Online-Shop unter https://www.transcraibe.de/ getätigt werden.<br></br>(2) Sollte ein Vertrag zustande kommen, wird dieser mit Lindner Internet Services, vertreten durch Daniel Lindner, Amalienstraße 87, 80799 München<br></br>(3) Die Darstellung der Produkte in unserem Online-Shop ist keine rechtlich bindende Offerte, sondern eine freibleibende Aufforderung an den Verbraucher zur Abgabe einer Bestellung. Durch die Bestellung der gewählten Ware unterbreitet der Verbraucher ein verbindliches Angebot zum Kaufvertragsabschluss.<br></br>(4) Bei einer Bestellung in unserem Online-Shop erfolgt die Abgabe eines bindenden Angebots durch den Verbraucher folgendermaßen: Der Verbraucher durchläuft die vorgesehene Bestellprozedur im Online-Shop erfolgreich. Dies beinhaltet:<br></br>1) Upload der zu verarbeitenden Dateien<br></br>2) Bestätigung durch Klick auf „Weiter zur Bezahlung“<br></br>3) Überprüfung der Angaben im Warenkorb<br></br>4) Auswahl und Betätigung einer Zahlungsoption von PayPal<br></br>5) Weiterleitung zur Bestellübersicht mit einer Option zum Download von Transkripten<br></br>Vor dem endgültigen Absenden der Bestellung kann der Verbraucher durch Nutzung der „Zurück“-Taste seines Browsers zur Seite zurückkehren, auf der die Kundendaten erfasst werden, um Eingabefehler zu korrigieren oder den Bestellvorgang durch Schließen des Browsers zu beenden.<br></br>Unsere AGB können jederzeit auch unter https://www.transcraibe.de/de/terms eingesehen werden."
+    },
+    "priceAndPayment": {
+      "headline": "Preise, Zahlung, Fälligkeit",
+      "content": "Die angegebenen Preise sind nach § 19 UStG von der Umsatzsteuer befreit. Es fallen keine Versandkosten an. Die Zahlung erfolgt per PayPal."
+    },
+    "warranty": {
+      "headline": "Gewährleistung",
+      "content": "Es gelten die gesetzlichen Gewährleistungsregelungen."
+    },
+    "uptimeSecurity": {
+      "headline": "Betriebszeit, Sicherheit und Datenaufbewahrung",
+      "content": "Wir nehmen die Betriebszeit unserer Anwendungen ernst, bieten jedoch keine Service-Level-Agreements für unsere Dienste an. Wir behalten uns das Recht vor, Ihr Konto vorübergehend zu deaktivieren, wenn Ihre Nutzung die typische Nutzung anderer Kunden deutlich übersteigt. Alle Daten, einschließlich Ihrer Audiodateien und Transkriptionen, werden in verschlüsselten Formaten gespeichert und übertragen, und wir setzen Verschlüsselung für die Datenübertragung über das öffentliche Internet durch. Ihre Daten werden nur für eine begrenzte Zeit nach der Verarbeitung aufbewahrt, bevor sie dauerhaft von unseren Servern gelöscht werden."
+    },
+    "copyright": {
+      "headline": "Urheberrecht und Inhaltsbesitz",
+      "content": "Wir beanspruchen keine Urheberrechte an dem Material, das Sie dem Dienst zur Verfügung stellen. Alle hochgeladenen Materialien bleiben Ihr Eigentum. Sie erklären sich jedoch damit einverstanden, keinen Teil des Dienstes, die Nutzung des Dienstes oder den Zugang zum Dienst ohne unsere ausdrückliche schriftliche Erlaubnis zu reproduzieren, zu duplizieren, zu kopieren, zu verkaufen, weiterzuverkaufen oder auszubeuten."
+    },
+    "modifications": {
+      "headline": "Änderungen am Dienst und den Bedingungen",
+      "content": "Wir behalten uns das Recht vor, den Dienst (oder einen Teil davon) vorübergehend oder dauerhaft zu ändern oder einzustellen, mit oder ohne Vorankündigung. Wir können auch diese AGB in Zukunft aktualisieren und werden Kontoinhaber über wesentliche Änderungen informieren. Ihre fortgesetzte Nutzung des Dienstes nach solchen Änderungen stellt Ihre Akzeptanz der neuen AGB dar."
+    },
+    "governingLaw": {
+      "headline": "Geltendes Recht",
+      "content": "Diese AGB unterliegen den Gesetzen des Gerichtsstandes, in dem transcrAIbe tätig ist, und werden in Übereinstimmung mit diesen ausgelegt, ungeachtet der Bestimmungen über Rechtswahlkonflikte."
+    }
+  },
+  "Imprint": {
+    "title": "Impressum",
+    "info": "transcr<bold>AI</bold>be ist Teil von Linder Internet Service KMU. Die folgenden Angaben sind gemäß § 5 TMG.",
+    "representedBy": {
+      "headline": "<bold>Vertreten durch:</bold>",
+      "content": "Daniel Lindner <br></br> Amalienstraße 87 <br></br>80799 München"
+    },
+    "contact": {
+      "headline": "<bold>Kontakt:</bold>",
+      "content": "E-Mail: contact@transcraibe.de"
+    },
+    "taxID": {
+      "headline": "<bold>Umsatzsteuer-ID gemäß §27a Umsatzsteuergesetz:</bold>",
+      "content": "DE366484135"
+    },
+    "regulatoryAuthority": {
+      "headline": "<bold>Zuständige Aufsichtsbehörde:</bold>",
+      "content": "Gemeinde Unterhaching <br></br>Rathausplatz 7 <br></br>82008 Unterhaching"
+    }
+  }
+}

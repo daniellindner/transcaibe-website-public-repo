@@ -1,0 +1,22 @@
+# Block all crawlers for /api
+User-agent: *
+Disallow: /api
+
+# Block all crawlers for AGBs
+User-agent: *
+Disallow: /en/terms
+
+User-agent: *
+Disallow: /de/terms
+
+# Blocks all crawlers for /imprint
+User-agent: *
+Disallow: /en/imprint
+
+User-agent: *
+Disallow: /de/imprint
+
+
+# Allow all crawlers
+User-agent: *
+Allow: /

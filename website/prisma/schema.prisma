@@ -1,0 +1,60 @@
+// schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("POSTGRES_PRISMA_URL") // uses connection pooling
+  // directUrl = env("POSTGRES_URL_NON_POOLING") // uses a direct connection
+}
+
+model TranscriptionOrder {
+  id                String            @id @default(cuid())
+  files             File[]
+  paypalOrderStatus PaypalOrderStatus @default(CREATED)
+  paypalOrderId     String            @unique
+  paypalOrderInfo   Json?
+  createdAt         DateTime          @default(now())
+}
+
+model File {
+  id                     String               @id @default(cuid())
+  filename               String?
+  filehash               String?
+  filesize               Int?
+  playbackSeconds        Int?
+  createdAt              DateTime             @default(now())
+  blobS3Key              String?              @unique
+  transcriptionText      String?              @default("")
+  transcriptionStatus    TranscriptionStatus? @default(NOT_STARTED)
+  transcriptionBlobS3Key String?              @unique
+  // openAPIResponse      Json?
+  transcriptionOrder     TranscriptionOrder?  @relation(fields: [transcriptionOrderId], references: [id], onDelete: Cascade)
+  transcriptionOrderId   String?
+}
+
+model UserTracking {
+  id         String @id @default(cuid())
+  datetime   DateTime @default(now())
+  sessionId  String
+  event_name String
+  quantity   Int
+}
+
+enum TranscriptionStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  COMPLETED
+  FAILED
+}
+
+enum PaypalOrderStatus {
+  CREATED
+  SAVED
+  APPROVED
+  VOIDED
+  COMPLETED
+  PAYER_ACTION_REQUIRED
+}

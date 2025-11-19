@@ -1,0 +1,222 @@
+{
+  "Metadata": {
+    "title": "transcrAIbe | 简单准确的音频转写",
+    "description": "面向音频文件的AI驱动转写服务。无需订阅。价格实惠，准确安全。立即尝试！"
+  },
+  "LandingPage": {
+    "title": "语音转文字转写服务",
+    "subtitle": "transcrAIbe 是一个快速安全的转写服务。我们的平台为您提供几乎几次点击就可以得到的最准确, 高质量的转写。我们是按量付费 - 无订阅，无隐藏费用。",
+    "previousOrder": "点击此处返回上一个订单"
+  },
+  "CookieBanner": {
+    "content": "本网站使用功能性cookie以正常工作。继续浏览本网站，即表示您同意我们使用cookie。",
+    "buttonText": "我理解"
+  },
+  "TranscribeApp": {
+    "buttons": {
+      "forward": "下一步",
+      "backward": "返回"
+    },
+    "instructions": {
+      "step1": "上传您的音频文件",
+      "step2": "通过PayPal支付",
+      "step3": "下载您的转写文件"
+    },
+    "drag&drop": {
+      "uploadContainer": "拖放文件至此处以转写。",
+      "uploadButton": "上传"
+    },
+    "fileCard": {
+      "price": "价格：",
+      "fileSize": "文件大小：",
+      "fileLength": "时长：",
+      "transcriptionStatus": "转写状态：",
+      "downloadFile": "下载"
+    },
+    "priceEstimate": "总价",
+    "downloadInvoice": "下载发票"
+  },
+  "LogoTopAppBar": {
+    "HowToUse": "使用方法",
+    "Pricing": "定价",
+    "Privacy": "隐私"
+  },
+  "HowToUse": {
+    "title": "如何使用",
+    "subtitle": "仅需几次点击即可轻松快速完成转写",
+    "Step1": {
+      "content": "首先上传您的音频文件。您可以直接从您的电脑拖放文件，或点击‘上传’按钮选择文件。"
+    },
+    "Step2": {
+      "content": "上传后，点击‘下一步’继续进行安全支付。我们的服务使用可靠安全的PayPal网关。完成支付过程即可将音频转为文字。"
+    },
+    "Step3": {
+      "content": "支付后，您将被重定向到下载您的转写文件的页面，您可以选择多种格式。您的浏览器的URL栏中的链接可以在其他设备上打开，并且在48小时内有效，为您提供足够的时间来检索您的文件。"
+    }
+  },
+  "TranscriptionDetails": {
+    "uploadHeader": "上传格式",
+    "uploadBody": "我们的服务支持<bold>.m4a</bold>, <bold>.mp3</bold> <bold>.webm</bold> <bold>.mp4</bold> <bold>.ogg</bold>, <bold>.mpga</bold>, <bold>.wav</bold> 和 <bold>.flac</bold> 文件。 您可以上传最长 <bold>120分钟</bold> 且最大文件大小为 <bold>10GB</bold> 的音频录音。 如果您有更长的录音， 我们建议将其分割成部分。",
+    "technologyHeader": "AI技术",
+    "technologyBody": "我们的平台使用最先进的AI技术，确保准确的转写服务。凭借<bold>98%的转写准确率</bold>，我们的系统是最佳之一。这种高级能力确保您的转写既可靠又精确。",
+    "languageHeader": "支持的语言",
+    "languageBody": "我们的服务支持<bold>57种语言</bold>，包括英语, 德语, 法语, 西班牙语, 意大利语, 荷兰语, 俄语, 中文, 日语等等。语言会被自动检测并相应转写。",
+    "downloadHeader": "下载格式",
+    "downloadBody": "您的转写文件可用<bold>.txt</bold>, <bold>.docx</bold> 和 <bold>.pdf</bold> 格式下载。您可以直接从浏览器下载它们，或使用URL栏中提供的链接在其他设备上访问它们。"
+  },
+  "Pricing": {
+    "title": "定价",
+    "subtitle": "透明且实惠 - 根据您的需求量身定制",
+    "content": "我们的定价结构简单且经济实惠：仅需2.99€每小时音频，精确到秒计算。无需订阅，您只需为您需要转录的音频付费。我们的服务非常适合一次性使用的客户，比如那些需要转录访谈或单个事件的客户。我们提供市场上最低的价格，使我们的服务既灵活又经济实惠。",
+    "pricePerHour": "每小时音频的€",
+    "pricingTable": {
+      "row1": {
+        "ele1": "类型",
+        "ele2": "文件长度",
+        "ele3": "成本"
+      },
+      "row2": {
+        "ele1": "单个文件",
+        "ele2": "30分钟",
+        "ele3": "1,50€"
+      },
+      "row3": {
+        "ele1": "多个文件",
+        "ele2": "15分钟 + 20分钟 + 45分钟",
+        "ele3": "3,97€"
+      }
+    },
+    "note": "<cursive>注意：</cursive>如果您有较长的录音，我们建议将它们分成几部分。这确保您仍然可以有效地转录较长的内容。每个订单的最低交易费用是<bold>0.50€</bold>。"
+  },
+  "Testimonials": {
+    "Testimonial1": {
+      "testimonial": "作为一名纪录片制作人，transcrAIbe的准确性令人印象深刻。找到一个能够最小化校正时间并最大化工作效率的服务真是太好了。他们对细节的关注是我研究的游戏规则转变者。",
+      "author": "- Maggie，纪录片制作人"
+    },
+    "Testimonial2": {
+      "testimonial": "作为一个预算有限的博士候选人，transcrAIbe以每小时音频2,99€的价格提供服务，无需订阅，这对我来说是一种经济上的救星，而且没有牺牲质量。",
+      "author": "- Lena，博士候选人"
+    },
+    "Testimonial3": {
+      "testimonial": "我不太懂技术，但我很欣赏transcrAIbe的简便性。拖放, 几次点击就完成了。它简单快速，无需麻烦，轻松满足我的截止日期。",
+      "author": "- Tom，自由记者"
+    }
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "subtitle": "关于我们的转写服务，找到常见问题的答案",
+    "faq1": {
+      "question": "我可以上传哪些音频文件格式进行转写？",
+      "answer": "我们的服务支持一系列广泛的音频文件格式，包括.m4a, .mp3, .webm, .mp4, .ogg, .mpga, .wav和.flac。 <br></br><br></br>您可以上传最长120分钟和最大文件大小为10GB的音频录音。如果您有更长的录音，我们建议在上传前将它们分割成部分。您可以使用以下工具分割您的音频文件： <br></br> <audiosplitter>音频分割器</audiosplitter>"
+    },
+    "faq2": {
+      "question": "与其他平台相比，transcrAIbe有什么优势？",
+      "answer": "transcrAIbe通过提供无需创建账户或订阅的无缝转写服务脱颖而出。 <br></br><br></br>我们提供市场上最低的价格，使我们的服务成为一次性使用客户的理想选择，例如那些需要转写访谈或单个事件的用户。我们的灵活, 按量付费模式旨在满足偶尔和常规用户的需求，这些用户优先考虑便利性, 成本效益和隐私。"
+    },
+    "faq3": {
+      "question": "你们可以转写哪些语言的音频？",
+      "answer": "我们的服务目前支持57种语言，包括但不限于英语, 德语, 法语, 西班牙语, 意大利语, 荷兰语, 俄语, 中文和日语。您的音频文件中的语言会被自动检测并相应转写。 <br></br><br></br>这里是我们支持的所有语言的完整列表： <br></br><br></br>南非荷兰语, 阿拉伯语, 亚美尼亚语, 阿塞拜疆语, 白俄罗斯语, 波斯尼亚语, 保加利亚语, 加泰罗尼亚语, 中文, 克罗地亚语, 捷克语, 丹麦语, 荷兰语, 英语, 爱沙尼亚语, 芬兰语, 法语, 加利西亚语, 德语, 希腊语, 希伯来语, 印地语, 匈牙利语, 冰岛语, 印尼语, 意大利语, 日语, 卡纳达语, 哈萨克语, 韩语, 拉脱维亚语, 立陶宛语, 马其顿语, 马来语, 马拉提语, 毛利语, 尼泊尔语, 挪威语, 波斯语, 波兰语, 葡萄牙语, 罗马尼亚语, 俄语, 塞尔维亚语, 斯洛伐克语, 斯洛文尼亚语, 西班牙语, 斯瓦希里语, 瑞典语, 他加禄语, 泰米尔语, 泰语, 土耳其语, 乌克兰语, 乌尔都语, 越南语, 威尔士语。"
+    },
+    "faq4": {
+      "question": "转写服务的费用是多少？",
+      "answer": "我们提供简单且高效的定价结构：每小时音频仅需2,99€，按秒计算。"
+    },
+    "faq5": {
+      "question": "我可以以哪些格式下载我的转写？",
+      "answer": "您的音频文件被转写后，您可以直接从浏览器以.txt, .docx和.pdf格式下载转写。URL栏中也提供了一个链接，方便您在其他设备上访问。"
+    },
+    "faq6": {
+      "question": "使用transcrAIbe需要订阅费吗？",
+      "answer": "不，我们是按量付费的。没有订阅费或隐藏费用。您只需为需要转写的音频付费，这既灵活又高效。"
+    },
+    "faq7": {
+      "question": "使用贵公司的转写服务，我的数据安全吗？",
+      "answer": "我们优先考虑您数据的安全和隐私。您的音频文件和转写文档以严格的保密性处理，不会与第三方共享。我们采用先进的安全措施在整个转写过程中保护您的信息。"
+    },
+    "faq8": {
+      "question": "我可以上传的文件大小和长度上限是多少？",
+      "answer": "允许的最大文件大小为10GB，单个音频文件的最大长度为120分钟。如果您的音频超过此长度，我们建议在上传前将其分割成更小的段落进行转写。"
+    },
+    "faq9": {
+      "question": "转写的准确度有多高？",
+      "answer": "利用最先进的AI技术，我们自豪地实现了在最佳音频条件下高达98%的转写准确率。这确保您的转写既可靠又精确。"
+    }
+  },
+  "Privacy": {
+    "title": "您的数据安全和隐私 - 我们的首要任务",
+    "subtitle": "致力于保护您的信息",
+    "retPolicy": {
+      "headline": "数据保留政策",
+      "content": "我们尊重您的隐私。这就是为什么我们在处理后只保留您的数据2天，之后将其自动且永久地从我们的服务器中删除。"
+    },
+    "encSecurity": {
+      "headline": "加密和安全",
+      "content": "包括您的音频文件和转写在内的所有数据都以加密格式存储和传输。这确保了最高水平的安全性和保密性。"
+    },
+    "noThirdPartySharing": {
+      "headline": "不与第三方共享",
+      "content": "我们保证您的音频文件及其对应的转写文档永远不会与第三方共享。您的内容完全属于您。"
+    }
+  },
+  "Footer": {
+    "imprint": "版权声明",
+    "terms": "条款与条件",
+    "availableLanguages": "可用语言"
+  },
+  "Terms": {
+    "title": "transcrAIbe的通用条款和条件",
+    "validity": {
+      "headline": "通用条款和条件的有效性",
+      "content": "以下通用条款和条件适用于我们和消费者之间在订单时有效版本的所有交付。\n\n消费者是指以主要既非商业性也非自由职业活动为目的完成法律交易的任何自然人（§ 13 BGB）。 <br></br> 这是通用条款和条件德语原版的翻译。如有差异，以德语版本为准。"
+    },
+    "contractConditions": {
+      "headline": "合同的成立",
+      "content": "(1) 通过我们在线商店 https://www.transcraibe.de/ 下订单时适用以下合同成立条件。<br></br>(2) 如果成立合同，它是与Lindner Internet Services签订的，由Daniel Lindner代表，位于德国慕尼黑Amalienstraße 87。<br></br>(3) 我们在线商店中的产品展示不是法律约束力的报价，而是非约束性的邀请，供消费者下订单。通过订购选定的商品，消费者提交了一个约束性的报价以达成购买合同。<br></br>(4) 在我们的在线商店下订单时，消费者以以下方式提交一个约束性的报价：消费者成功完成我们在线商店提供的订购流程。这包括：<br></br>1) 上传待处理的文件<br></br>2) 点击“继续支付”确认<br></br>3) 检查购物车中的信息<br></br>4) 从PayPal中选择并激活一种支付选项<br></br>5) 重定向到带有下载文稿选项的订单概览页面<br></br>在最终发送订单之前，消费者可以使用浏览器的“返回”按钮返回到记录客户详细信息的页面以纠正输入错误，或通过关闭浏览器来取消订单过程。<br></br>我们的通用条款和条件也可随时在 https://www.transcraibe.de/de/terms 查看。"
+    },
+    "priceAndPayment": {
+      "headline": "价格, 支付, 到期日",
+      "content": "标明的价格根据§ 19 UStG免征增值税。不适用运费。通过PayPal支付。"
+    },
+    "warranty": {
+      "headline": "保证",
+      "content": "适用法定的保证规定。"
+    },
+    "uptimeSecurity": {
+      "headline": "正常运行时间, 安全和数据保留",
+      "content": "我们认真对待我们应用程序的正常运行时间，但我们不为我们的服务提供服务级别协议。如果您的使用显著超过其他客户的典型使用，我们保留临时禁用您账户的权利。所有数据，包括您的音频文件和转录文本，都以加密格式存储和传输，并且我们对公共互联网上的数据传输使用加密。您的数据在处理后只保留有限的时间，之后会从我们的服务器上永久删除。"
+    },
+    "copyright": {
+      "headline": "版权和内容所有权",
+      "content": "我们对您提供给服务的材料不声称任何知识产权。所有上传的材料仍然是您的财产。然而，您同意不在未经我们明确书面许可的情况下复制, 复制, 出售, 转售或利用服务的任何部分，服务的使用或对服务的访问。"
+    },
+    "modifications": {
+      "headline": "对服务和条款的修改",
+      "content": "我们保留随时临时或永久修改或中止服务（或其任何部分）的权利，无论是否通知。我们也可能将来更新这些条款和条件，并将通知账户持有人重大变更。继续使用服务后此类变更即表示您接受新的条款和条件。"
+    },
+    "governingLaw": {
+      "headline": "适用法律",
+      "content": "这些条款和条件受制于transcrAIbe运营所在司法管辖区的法律，并根据这些法律进行解释，无论冲突法规定如何。"
+    },
+    "disclaimer": "这是通用条款和条件德语原版的翻译。如有差异，以德语版本为准。"
+  },
+  "Imprint": {
+    "title": "版权声明",
+    "info": "transcr<bold>AI</bold>be是Linder Internet Service KMU的一部分。以下信息根据§ 5 TMG提供。",
+    "representedBy": {
+      "headline": "<bold>代表：</bold>",
+      "content": "Daniel Lindner <br></br> Amalienstraße 87 <br></br>80799 München"
+    },
+    "contact": {
+      "headline": "<bold>联系方式：</bold>",
+      "content": "电子邮件: contact@transcraibe.de"
+    },
+    "taxID": {
+      "headline": "<bold>根据§27a Umsatzsteuergesetz的增值税识别号：</bold>",
+      "content": "DE366484135"
+    },
+    "regulatoryAuthority": {
+      "headline": "<bold>监管机构：</bold>",
+      "content": "Gemeinde Unterhaching <br></br>Rathausplatz 7 <br></br>82008 Unterhaching"
+    }
+  }
+}
